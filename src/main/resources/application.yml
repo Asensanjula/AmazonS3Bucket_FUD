@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    credentials:
+      accessKey:
+      secretKey:
+    region:
+      static:
+    stack:
+      auto: false
+s3:
+  bucket:
+    name: pappzbucket
